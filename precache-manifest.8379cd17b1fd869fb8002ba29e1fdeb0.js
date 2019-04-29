@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae9aa5c903086981aed8b2751a81f1e0",
+    "revision": "9d42be25eb1b02d25e577071ee3f968c",
     "url": "/felixchess5/react_tictactoe_demo.git/index.html"
   },
   {
-    "revision": "a7a8d5f3bd1aee439137",
+    "revision": "345eccd38689aef9e916",
     "url": "/felixchess5/react_tictactoe_demo.git/static/css/main.55d72bbf.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/felixchess5/react_tictactoe_demo.git/static/js/2.86f5563f.chunk.js"
   },
   {
-    "revision": "a7a8d5f3bd1aee439137",
-    "url": "/felixchess5/react_tictactoe_demo.git/static/js/main.6c41cec7.chunk.js"
+    "revision": "345eccd38689aef9e916",
+    "url": "/felixchess5/react_tictactoe_demo.git/static/js/main.e90705bc.chunk.js"
   },
   {
     "revision": "5d926dc186df17012d90",
